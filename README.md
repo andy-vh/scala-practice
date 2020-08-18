@@ -1,2 +1,3 @@
 # Code in Scala for various LeetCode problems
-1480. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+* 1470 - [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/submissions/)
+* 1480 - [Running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/)
